@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="32277154-00fd-40be-996a-a659031ea5e8" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/SettingsController.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/Assets/Scripts/Scene Transition.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/ButtonManager.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Button Controller.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/ButtonController.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/SettingsController.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/SceneTransition.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/PlayerMotor.cs" />
+    </changedPaths>
+  </component>
+  <component name="ProjectId" id="1p1Oe4pHHahFJi0UTzvr320Oe7L" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="32277154-00fd-40be-996a-a659031ea5e8" name="Default Changelist" comment="" />
+      <created>1614347224862</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1614347224862</updated>
+      <workItem from="1614347233569" duration="10093000" />
+      <workItem from="1614404608196" duration="2870000" />
+      <workItem from="1614408082632" duration="5656000" />
+      <workItem from="1614861004134" duration="7259000" />
+      <workItem from="1614943626860" duration="2616000" />
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+</project>
