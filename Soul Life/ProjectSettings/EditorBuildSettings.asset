@@ -9,15 +9,18 @@ EditorBuildSettings:
     path: Assets/Scenes/Menu.unity
     guid: 2dded1b268b099944919745fd37337f9
   - enabled: 1
-    path: Assets/Scenes/WorldScene.unity
+    path: Assets/Scenes/CharapterScene.unity
+    guid: 6a5153026dc7d3f4da94b777133673ae
+  - enabled: 1
+    path: Assets/Scenes/worldScene.unity
     guid: d17ceddf4512811439aa6bb9e950029e
   - enabled: 1
     path: Assets/Scenes/HotelScene.unity
     guid: ff00180daaca5784ca25559bb355111b
-  - enabled: 1
-    path: Assets/Scenes/CharapterEditor.unity
-    guid: 518bbd3a2181476408b205d55779966c
-  - enabled: 1
-    path: Assets/Scenes/SettingsScene.unity
-    guid: 18898eb12087f284ba62c92b7e5536e9
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
   m_configObjects: {}
