@@ -57,10 +57,5 @@ public class SceneTransition : MonoBehaviour
         {
             SceneManager.LoadSceneAsync("Menu");
         }
-
-        if (Input.GetButtonDown("Submit"))
-        {
-            SceneManager.LoadSceneAsync("worldScene");
-        }
     }
 }
