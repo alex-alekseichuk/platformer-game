@@ -6,13 +6,13 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/Menu.unity
+    path: Assets/Scenes/MenuScene.unity
     guid: 2dded1b268b099944919745fd37337f9
   - enabled: 1
     path: Assets/Scenes/CharapterScene.unity
     guid: 6a5153026dc7d3f4da94b777133673ae
   - enabled: 1
-    path: Assets/Scenes/worldScene.unity
+    path: Assets/Scenes/WorldScene.unity
     guid: d17ceddf4512811439aa6bb9e950029e
   - enabled: 1
     path: Assets/Scenes/HotelScene.unity
@@ -23,4 +23,7 @@ EditorBuildSettings:
   - enabled: 0
     path: 
     guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/SettingsScene.unity
+    guid: fc43f16e9e0fb7148b0bef7de6ac5267
   m_configObjects: {}
