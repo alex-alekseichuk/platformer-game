@@ -53,9 +53,5 @@ public class SceneTransition : MonoBehaviour
             loadingProgressBar.fillAmount = loadingSceneOperation.progress;   
         }
 
-        if (Input.GetKeyDown(KeyCode.Escape))
-        {
-            SceneManager.LoadSceneAsync("Menu");
-        }
     }
 }

@@ -30,10 +30,15 @@ public class PlayerMotor : MonoBehaviour
 
             Vector3 moveDir = Quaternion.Euler(0f, targetAngle, 0f) * Vector3.forward;
             controller.Move(moveDir.normalized * speed * Time.deltaTime);
+            if (Input.GetButtonDown("Jump") && controller.isGrounded)
+            {
+                velocity.y = Mathf.Sqrt(JumpStrength * -2f * gravity);
+            }
+            velocity.y += gravity * Time.deltaTime;
 
+            controller.Move(velocity * Time.deltaTime);
         }
 
-        //Прыжок
         if (Input.GetButtonDown("Jump") && controller.isGrounded)
         {
             velocity.y = Mathf.Sqrt(JumpStrength * -2f * gravity);
